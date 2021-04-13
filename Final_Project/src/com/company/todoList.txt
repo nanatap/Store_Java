@@ -1,0 +1,31 @@
+*** Last functions to add ***
+
+Item discounts -->
+
+1) buy more pay less logic apply in its class same as other discounts. ---> Done
+2) ItemTakeItAll  logic --- Done
+
+store baskets -->
+
+1) Store class should have users array ----> Done
+2) add users (manager, cashier, loyal customer, simple customer) from main  ---> Done
+3) check which kind of customer it is loyal or simple, or cashier. and assign the menu accordingly.
+4)in store basket date and time of purchase --- > Done
+5) assign baskets accordingly. -->
+three different store baskets.
+Bonus points methods.
+
+***
+Cashier class -->
+
+Employee base salary and hours of work methods
+when cashier logs in get the timer, when she logs out, get the time and subtract the log out time to the log in time.
+and multiply these time to the base salary. if time is more then 8h add 10 euros for each hours.
+bonus method for cashier class
+
+***
+Apply the bonus method for each user.
+
+
+
+
